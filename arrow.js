@@ -10,5 +10,5 @@ const newMAth=(x,y)=>{
     const final = sum*minus;
     return final;
 }
-const result4 = newMAth(15, 10);
+const result4 = newMAth(15 , 10);
 console.log(result4);
